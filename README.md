@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Habib+ADOUM!;" />
 </h1>
 
-<h3 align="center">I'm in the final year of my Master's Degree in Computer Science at EPITA, specializing in Artificial Intelligence and Natural Language Processing (NLP)</h3>
+<h3 align="center">I'm in the final year of my Master's Degree in Computer Science at EPITA, studying Data Science and AI</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  - 🎓 Student at EPITA
  
- - 🌱 I’m currently learning **Machine Learning and NLP**
+ - 🌱 I’m currently learning **Data Science and AI**
 
  - 📫 How to reach me: habib.adoum01@gmail.com
  
