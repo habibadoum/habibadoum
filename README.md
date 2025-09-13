@@ -4,18 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Habib+ADOUM!;" />
 </h1>
 
-<h3 align="center">I'm in the final year of my Master's Degree in Computer Science at EPITA, studying Data Science and AI</h3>
-
 <br/>
 
 <div align="left">
- 
- - 🎓 Student at EPITA
- 
- - 🌱 I’m currently learning **Data Science and AI**
 
- - 📫 How to reach me: habib.adoum01@gmail.com
- 
+---
+
+- 💼 Data Engineer & AI/ML Practitioner, specializing in **Data Science and Artificial Intelligence**
+
+- 🚀 Currently working on projects in **data engineering, AI pipelines, and SaaS product development**
+
+- 📫 Reach me at: **[habib.adoum01@gmail.com](mailto:habib.adoum01@gmail.com)**
+
  </div>
  
 <div align="center"> 
